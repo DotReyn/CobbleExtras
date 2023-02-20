@@ -1,2 +1,2 @@
-# Cobblemon-Template
-Template for Fabric addon mods for Cobblemon
+# CobbleExtras
+Cobblemon sidemod that implements extra utility commands to the game.
